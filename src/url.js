@@ -1,2 +1,2 @@
-export const URL="http://localhost:5000"
-export const IF="http://localhost:5000/images/"
+export const URL="https://test-filmb.vercel.app/"
+export const IF="https://test-filmb.vercel.app/images/"
